@@ -21,9 +21,8 @@
   },
   "dependencies": {
     "androidmanifest": "^2.0.0",
-    "bluebird": "^3.4.7",
-    "nativescript-hook": "^0.2.1",
-    "plist": "^2.0.1"
+    "nativescript-hook": "^0.2.5",
+    "simple-plist": "^0.2.1"
   },
   "devDependencies": {
     "cz-conventional-changelog": "^2.1.0"
